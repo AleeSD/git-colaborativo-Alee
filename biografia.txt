@@ -1,3 +1,7 @@
 Hola, mi nombre es Alee Sayes Delgado. 
 Actualmente estudio la carrera de Ingeniería de Software con I.A.
 Estoy participando en este bootcamp para aprender más sobre Git y GitHub.
+Mis expectativas son:
+- Aprender el flujo de trabajo colaborativo
+- Dominar los comandos básicos de Git
+- Entender cómo resolver conflictos
